@@ -1,1 +1,0 @@
-vless://7d49325b-fb26-4b33-8613-079615399811@172.66.44.82:2096?security=tls&sni=kolah.taktest1379.gq&fp=chrome&type=ws&path=/&host=kolah.taktest1379.gq&encryption=none#HS96%20(Other)
