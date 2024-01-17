@@ -1,1 +1,203 @@
-ewogICAgImRucyI6IHsKICAgICAgICAicXVlcnlTdHJhdGVneSI6ICJVc2VJUCIsCiAgICAgICAgInNlcnZlcnMiOiBbCiAgICAgICAgICAgICI4LjguOC44IgogICAgICAgIF0sCiAgICAgICAgInRhZyI6ICJidWlsdC1pbi1ETlMiCiAgICB9LAogICAgImluYm91bmRzIjogWwogICAgICAgIHsKICAgICAgICAgICAgImxpc3RlbiI6ICIxMjcuMC4wLjEiLAogICAgICAgICAgICAicG9ydCI6IDEwODA2LAogICAgICAgICAgICAicHJvdG9jb2wiOiAic29ja3MiLAogICAgICAgICAgICAic2V0dGluZ3MiOiB7CiAgICAgICAgICAgICAgICAidWRwIjogdHJ1ZQogICAgICAgICAgICB9LAogICAgICAgICAgICAic25pZmZpbmciOiB7CiAgICAgICAgICAgICAgICAiZGVzdE92ZXJyaWRlIjogWwogICAgICAgICAgICAgICAgICAgICJodHRwIiwKICAgICAgICAgICAgICAgICAgICAidGxzIiwKICAgICAgICAgICAgICAgICAgICAicXVpYyIKICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICAiZW5hYmxlZCI6IHRydWUKICAgICAgICAgICAgfSwKICAgICAgICAgICAgInRhZyI6ICJzb2Nrc19JTiIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICAgImxpc3RlbiI6ICIxMjcuMC4wLjEiLAogICAgICAgICAgICAicG9ydCI6IDEwODA3LAogICAgICAgICAgICAicHJvdG9jb2wiOiAiaHR0cCIsCiAgICAgICAgICAgICJzZXR0aW5ncyI6IHsKICAgICAgICAgICAgICAgICJhbGxvd1RyYW5zcGFyZW50IjogdHJ1ZSwKICAgICAgICAgICAgICAgICJ0aW1lb3V0IjogMzAwCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICJzbmlmZmluZyI6IHsKICAgICAgICAgICAgICAgICJkZXN0T3ZlcnJpZGUiOiBbCiAgICAgICAgICAgICAgICAgICAgImh0dHAiLAogICAgICAgICAgICAgICAgICAgICJ0bHMiCiAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgImVuYWJsZWQiOiB0cnVlCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICJ0YWciOiAiaHR0cF9JTiIKICAgICAgICB9CiAgICBdLAogICAgImxvZyI6IHsKICAgICAgICAibG9nbGV2ZWwiOiAiV2FybiIKICAgIH0sCiAgICAib3V0Ym91bmRzIjogWwogICAgICAgIHsKICAgICAgICAgICAgIm11eCI6IHsKICAgICAgICAgICAgICAgICJjb25jdXJyZW5jeSI6IDgsCiAgICAgICAgICAgICAgICAiZW5hYmxlZCI6IHRydWUsCiAgICAgICAgICAgICAgICAieHVkcENvbmN1cnJlbmN5IjogOCwKICAgICAgICAgICAgICAgICJ4dWRwUHJveHlVRFA0NDMiOiAicmVqZWN0IgogICAgICAgICAgICB9LAogICAgICAgICAgICAicHJvdG9jb2wiOiAidmxlc3MiLAogICAgICAgICAgICAic2V0dGluZ3MiOiB7CiAgICAgICAgICAgICAgICAidm5leHQiOiBbCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAiYWRkcmVzcyI6ICJ6YXAuM3V0aWxpdGllcy5jb20iLAogICAgICAgICAgICAgICAgICAgICAgICAicG9ydCI6IDIwOTYsCiAgICAgICAgICAgICAgICAgICAgICAgICJ1c2VycyI6IFsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiZW5jcnlwdGlvbiI6ICJub25lIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiaWQiOiAiNGJjNTgwMzUtZDZiYy00YjdlLThjNzEtM2JhOGI0YTM5ZGU0IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgXQogICAgICAgICAgICB9LAogICAgICAgICAgICAic3RyZWFtU2V0dGluZ3MiOiB7CiAgICAgICAgICAgICAgICAibmV0d29yayI6ICJ3cyIsCiAgICAgICAgICAgICAgICAic2VjdXJpdHkiOiAidGxzIiwKICAgICAgICAgICAgICAgICJzb2Nrb3B0IjogewogICAgICAgICAgICAgICAgICAgICJkaWFsZXJQcm94eSI6ICJmcmFnLW91dCIsCiAgICAgICAgICAgICAgICAgICAgInRjcEZhc3RPcGVuIjogZmFsc2UsCiAgICAgICAgICAgICAgICAgICAgInRjcEtlZXBBbGl2ZUlkbGUiOiAxMjAsCiAgICAgICAgICAgICAgICAgICAgInRjcE5vRGVsYXkiOiB0cnVlCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgInRsc1NldHRpbmdzIjogewogICAgICAgICAgICAgICAgICAgICJhbGxvd0luc2VjdXJlIjogZmFsc2UsCiAgICAgICAgICAgICAgICAgICAgImZpbmdlcnByaW50IjogInJhbmRvbWl6ZWQiLAogICAgICAgICAgICAgICAgICAgICJtaW5WZXJzaW9uIjogIjEuMyIsCiAgICAgICAgICAgICAgICAgICAgInNlcnZlck5hbWUiOiAieWVkLnRha3Rlc3QxMzc5LnRrIgogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICJ3c1NldHRpbmdzIjogewogICAgICAgICAgICAgICAgICAgICJoZWFkZXJzIjogewogICAgICAgICAgICAgICAgICAgICAgICAiSG9zdCI6ICJ5ZWQudGFrdGVzdDEzNzkudGsiCiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAicGF0aCI6ICIvIgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9LAogICAgICAgICAgICAidGFnIjogInByb3h5IgogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgICAicHJvdG9jb2wiOiAiZnJlZWRvbSIsCiAgICAgICAgICAgICJzZXR0aW5ncyI6IHsKICAgICAgICAgICAgICAgICJkb21haW5TdHJhdGVneSI6ICJVc2VJUCIsCiAgICAgICAgICAgICAgICAiZnJhZ21lbnQiOiB7CiAgICAgICAgICAgICAgICAgICAgImludGVydmFsIjogIjEwLTE1IiwKICAgICAgICAgICAgICAgICAgICAibGVuZ3RoIjogIjEwLTIwIiwKICAgICAgICAgICAgICAgICAgICAicGFja2V0cyI6ICJ0bHNoZWxsbyIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSwKICAgICAgICAgICAgInN0cmVhbVNldHRpbmdzIjogewogICAgICAgICAgICAgICAgInNvY2tvcHQiOiB7CiAgICAgICAgICAgICAgICAgICAgIlRjcE5vRGVsYXkiOiB0cnVlLAogICAgICAgICAgICAgICAgICAgICJkb21haW5TdHJhdGVneSI6ICJVc2VJUCIsCiAgICAgICAgICAgICAgICAgICAgInRjcEtlZXBBbGl2ZUlkbGUiOiAxMjAKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSwKICAgICAgICAgICAgInRhZyI6ICJmcmFnLW91dCIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICAgInByb3RvY29sIjogImZyZWVkb20iLAogICAgICAgICAgICAic2V0dGluZ3MiOiB7CiAgICAgICAgICAgICAgICAiZG9tYWluU3RyYXRlZ3kiOiAiVXNlSVAiCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICJzdHJlYW1TZXR0aW5ncyI6IHsKICAgICAgICAgICAgfSwKICAgICAgICAgICAgInRhZyI6ICJkaXJlY3QiCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAgICJwcm90b2NvbCI6ICJibGFja2hvbGUiLAogICAgICAgICAgICAic2V0dGluZ3MiOiB7CiAgICAgICAgICAgICAgICAicmVzcG9uc2UiOiB7CiAgICAgICAgICAgICAgICAgICAgInR5cGUiOiAibm9uZSIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSwKICAgICAgICAgICAgInRhZyI6ICJibG9jayIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICAgInByb3RvY29sIjogImRucyIsCiAgICAgICAgICAgICJwcm94eVNldHRpbmdzIjogewogICAgICAgICAgICAgICAgInRhZyI6ICJwcm94eSIKICAgICAgICAgICAgfSwKICAgICAgICAgICAgInNldHRpbmdzIjogewogICAgICAgICAgICAgICAgIm5vbklQUXVlcnkiOiAiZHJvcCIKICAgICAgICAgICAgfSwKICAgICAgICAgICAgInRhZyI6ICJkbnMtb3V0IgogICAgICAgIH0KICAgIF0sCiAgICAicm91dGluZyI6IHsKICAgICAgICAiZG9tYWluTWF0Y2hlciI6ICJoeWJyaWQiLAogICAgICAgICJkb21haW5TdHJhdGVneSI6ICJJUElmTm9uTWF0Y2giLAogICAgICAgICJydWxlcyI6IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgImluYm91bmRUYWciOiBbCiAgICAgICAgICAgICAgICAgICAgInNvY2tzX0lOIgogICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgICJvdXRib3VuZFRhZyI6ICJkbnMtb3V0IiwKICAgICAgICAgICAgICAgICJwb3J0IjogIjUzIiwKICAgICAgICAgICAgICAgICJ0eXBlIjogImZpZWxkIgogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAiaW5ib3VuZFRhZyI6IFsKICAgICAgICAgICAgICAgICAgICAiYnVpbHQtaW4tRE5TIgogICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgICJvdXRib3VuZFRhZyI6ICJwcm94eSIsCiAgICAgICAgICAgICAgICAidHlwZSI6ICJmaWVsZCIKICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgImVuYWJsZWQiOiB0cnVlLAogICAgICAgICAgICAgICAgImluYm91bmRUYWciOiBbCiAgICAgICAgICAgICAgICAgICAgImFwaSIKICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICAib3V0Ym91bmRUYWciOiAiYXBpIiwKICAgICAgICAgICAgICAgICJ0eXBlIjogImZpZWxkIgogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAiZG9tYWluIjogWwogICAgICAgICAgICAgICAgICAgICJnZW9zaXRlOmNhdGVnb3J5LWFkcy1hbGwiCiAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgIm91dGJvdW5kVGFnIjogImJsb2NrIiwKICAgICAgICAgICAgICAgICJ0eXBlIjogImZpZWxkIgogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAiaXAiOiBbCiAgICAgICAgICAgICAgICAgICAgIjEwLjEwLjM0LjM1IiwKICAgICAgICAgICAgICAgICAgICAiMTAuMTAuMzQuMzYiCiAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgIm91dGJvdW5kVGFnIjogImJsb2NrIiwKICAgICAgICAgICAgICAgICJ0eXBlIjogImZpZWxkIgogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAiaXAiOiBbCiAgICAgICAgICAgICAgICAgICAgImdlb2lwOnByaXZhdGUiLAogICAgICAgICAgICAgICAgICAgICJnZW9pcDppciIKICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICAib3V0Ym91bmRUYWciOiAiZGlyZWN0IiwKICAgICAgICAgICAgICAgICJ0eXBlIjogImZpZWxkIgogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAiZG9tYWluIjogWwogICAgICAgICAgICAgICAgICAgICJnZW9zaXRlOnByaXZhdGUiLAogICAgICAgICAgICAgICAgICAgICJkb21haW46LmlyIgogICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgICJvdXRib3VuZFRhZyI6ICJkaXJlY3QiLAogICAgICAgICAgICAgICAgInR5cGUiOiAiZmllbGQiCiAgICAgICAgICAgIH0KICAgICAgICBdCiAgICB9Cn0K
+{
+    "dns": {
+        "queryStrategy": "UseIP",
+        "servers": [
+            "8.8.8.8"
+        ],
+        "tag": "built-in-DNS"
+    },
+    "inbounds": [
+        {
+            "listen": "127.0.0.1",
+            "port": 10806,
+            "protocol": "socks",
+            "settings": {
+                "udp": true
+            },
+            "sniffing": {
+                "destOverride": [
+                    "http",
+                    "tls",
+                    "quic"
+                ],
+                "enabled": true
+            },
+            "tag": "socks_IN"
+        },
+        {
+            "listen": "127.0.0.1",
+            "port": 10807,
+            "protocol": "http",
+            "settings": {
+                "allowTransparent": true,
+                "timeout": 300
+            },
+            "sniffing": {
+                "destOverride": [
+                    "http",
+                    "tls"
+                ],
+                "enabled": true
+            },
+            "tag": "http_IN"
+        }
+    ],
+    "log": {
+        "loglevel": "Warn"
+    },
+    "outbounds": [
+        {
+            "mux": {
+                "concurrency": 8,
+                "enabled": true,
+                "xudpConcurrency": 8,
+                "xudpProxyUDP443": "reject"
+            },
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "zap.3utilities.com",
+                        "port": 2096,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "id": "4bc58035-d6bc-4b7e-8c71-3ba8b4a39de4"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "sockopt": {
+                    "dialerProxy": "frag-out",
+                    "tcpFastOpen": false,
+                    "tcpKeepAliveIdle": 120,
+                    "tcpNoDelay": true
+                },
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "fingerprint": "randomized",
+                    "minVersion": "1.3",
+                    "serverName": "yed.taktest1379.tk"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "yed.taktest1379.tk"
+                    },
+                    "path": "/"
+                }
+            },
+            "tag": "proxy"
+        },
+        {
+            "protocol": "freedom",
+            "settings": {
+                "domainStrategy": "UseIP",
+                "fragment": {
+                    "interval": "10-15",
+                    "length": "10-20",
+                    "packets": "tlshello"
+                }
+            },
+            "streamSettings": {
+                "sockopt": {
+                    "TcpNoDelay": true,
+                    "domainStrategy": "UseIP",
+                    "tcpKeepAliveIdle": 120
+                }
+            },
+            "tag": "frag-out"
+        },
+        {
+            "protocol": "freedom",
+            "settings": {
+                "domainStrategy": "UseIP"
+            },
+            "streamSettings": {
+            },
+            "tag": "direct"
+        },
+        {
+            "protocol": "blackhole",
+            "settings": {
+                "response": {
+                    "type": "none"
+                }
+            },
+            "tag": "block"
+        },
+        {
+            "protocol": "dns",
+            "proxySettings": {
+                "tag": "proxy"
+            },
+            "settings": {
+                "nonIPQuery": "drop"
+            },
+            "tag": "dns-out"
+        }
+    ],
+    "routing": {
+        "domainMatcher": "hybrid",
+        "domainStrategy": "IPIfNonMatch",
+        "rules": [
+            {
+                "inboundTag": [
+                    "socks_IN"
+                ],
+                "outboundTag": "dns-out",
+                "port": "53",
+                "type": "field"
+            },
+            {
+                "inboundTag": [
+                    "built-in-DNS"
+                ],
+                "outboundTag": "proxy",
+                "type": "field"
+            },
+            {
+                "enabled": true,
+                "inboundTag": [
+                    "api"
+                ],
+                "outboundTag": "api",
+                "type": "field"
+            },
+            {
+                "domain": [
+                    "geosite:category-ads-all"
+                ],
+                "outboundTag": "block",
+                "type": "field"
+            },
+            {
+                "ip": [
+                    "10.10.34.35",
+                    "10.10.34.36"
+                ],
+                "outboundTag": "block",
+                "type": "field"
+            },
+            {
+                "ip": [
+                    "geoip:private",
+                    "geoip:ir"
+                ],
+                "outboundTag": "direct",
+                "type": "field"
+            },
+            {
+                "domain": [
+                    "geosite:private",
+                    "domain:.ir"
+                ],
+                "outboundTag": "direct",
+                "type": "field"
+            }
+        ]
+    }
+}
